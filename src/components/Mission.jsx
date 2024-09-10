@@ -7,7 +7,7 @@ export default function Mission() {
       <h6 className="text-white w-[100%] p-3 text-6xl font-varela">
           Mission
         </h6>
-      <div className="w-full max-w-5xl bg-white bg-opacity-20 p-12 rounded-2xl shadow-2xl backdrop-blur-lg">
+      <div className="w-full max-w-5xl bg-white bg-opacity-20 p-4 md:p-12 rounded-2xl shadow-2xl backdrop-blur-lg">
         <p className="text-white text-lg  md:text-xl font-medium leading-relaxed font-varela mb-12">
           At Xert Studios, our mission is to revolutionize technology by transforming the ordinary into the extraordinary. We are dedicated to pushing the limits of innovation, creating solutions that combine creativity and precision to tackle complex challenges. Our aim is to lead change in the tech industry, offering groundbreaking applications and systems that surpass client expectations. By leveraging emerging technologies like AR, VR, AI, and Blockchain, we aim to redefine user engagement and operational efficiency, setting the pace with visionary ideas and unmatched expertise.
         </p>
